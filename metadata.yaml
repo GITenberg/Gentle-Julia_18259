@@ -1,0 +1,48 @@
+_repo: Gentle-Julia_18259
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Brehm, Worth
+    birthdate: 1883
+    deathdate: 1928
+    gutenberg_agent_id: '7909'
+    url: http://www.gutenberg.org/2009/agents/7909
+  - agent_name: Gilbert, C. Allan
+    alias: Gilbert, C. Allen
+    gutenberg_agent_id: '7908'
+    url: http://www.gutenberg.org/2009/agents/7908
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: Although the title character, Julia, is a sweet and pretty girl with
+  dozens of admirers, it is her young cousin Florence who really steals the show with
+  her tart observations and complicated schemes. Author Booth Tarkington was known
+  as an uncannily apt creator of child characters, and he hits the ball out of the
+  park with Gentle Julia. This delightful story is a must-read for classic literature
+  lovers of all ages.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Gentle Julia
+url: http://www.gutenberg.org/ebooks/18259
